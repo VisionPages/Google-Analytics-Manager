@@ -1,0 +1,4 @@
+fields:
+  code:
+    label: visionpages.googleanalyticscode::lang.model.label
+    placeholder: UA-XXXXXXXX-X
